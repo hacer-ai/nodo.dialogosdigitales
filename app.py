@@ -51,7 +51,7 @@ st.sidebar.markdown("Mentor Diálogos digitales", unsafe_allow_html=True)
 st.sidebar.markdown("hacer Agent Toolkit 1.0")
 st.sidebar.divider()
 
-st.write("""<img height="120" src="https://es.nodoeafit.com/wp-content/uploads/2024/09/jobs-2.png"/>""", unsafe_allow_html=True)
+st.write("""<img height="120" src="https://es.nodoeafit.com/wp-content/uploads/2024/10/dialogosdigitales.png"/>""", unsafe_allow_html=True)
 
 st.markdown(
     """
